@@ -1,4 +1,4 @@
-$("#action").click(function (e) { 
-    console.log("ceci est un test");
+$("#register").click(function (e) { 
+    alert("Le compte a bien été créé !");
     
 });
